@@ -1,3 +1,4 @@
 streamlit
 emoji
 spacy
+es_corenews_md
