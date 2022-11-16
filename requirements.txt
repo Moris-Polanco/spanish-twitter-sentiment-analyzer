@@ -2,3 +2,4 @@ streamlit
 emoji
 spacy
 pickle
+protobuf
